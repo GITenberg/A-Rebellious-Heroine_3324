@@ -1,10 +1,8 @@
 _repo: A-Rebellious-Heroine_3324
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 3324/3324-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3324-h/images/coverb.jpg
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -16,6 +14,8 @@ creator:
 description: As part of ClassicReader.com, Stephane Theroux presents the full text
   of "A Rebellious Heroine," by American humorist John Kendrick Bangs (1862-1922).
   Bangs was a humor editor for "Harper's Magazine" from 1888-1899.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3324#A-Rebellious-Heroine
 gutenberg_issued: '2002-07-01'
 gutenberg_type: Text
 identifiers:
